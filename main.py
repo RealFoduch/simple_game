@@ -1,3 +1,5 @@
+ # Игра "Угадай число от 0 до 100"
+
 import random
 
 number = random.randint(0, 100)
